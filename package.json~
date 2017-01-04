@@ -3,7 +3,7 @@
   "title": "photoStudio",
   "version": "0.0.1",
   "author": "Eldar",
-  "main": "src/app/view/index.html",
+  "main": "src/app/view/index.html"
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
