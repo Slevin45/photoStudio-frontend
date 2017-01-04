@@ -14,27 +14,27 @@
     <script src="https://use.fontawesome.com/96325ab6c8.js"></script>
 
     <!-- Theme CSS -->
-    <link href="../../assets/css/agency.css" rel="stylesheet">
+    <link href="assets/css/agency.css" rel="stylesheet">
 </head>
 <body>
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand nav-tabs" href="index.html">PhotoStudio</a>
+                <a class="navbar-brand nav-tabs" href="app/view/index.html">PhotoStudio</a>
             </div>
             <div id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right menu">
                     <li class="nav-tabs">
-                        <a href="services.html">Services</a>
+                        <a href="app/view/services.html">Services</a>
                     </li>
                     <li class="nav-tabs">
-                        <a href="portfolio.html">Portfolio</a>
+                        <a href="app/view/portfolio.html">Portfolio</a>
                     </li>
                     <li class="nav-tabs">
-                        <a href="team.html">Team</a>
+                        <a href="app/view/team.html">Team</a>
                     </li>
                     <li class="nav-tabs">
-                        <a href="contact.html">Contact</a>
+                        <a href="app/view/contact.html">Contact</a>
                     </li>
                 </ul>
             </div>

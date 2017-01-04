@@ -3,7 +3,9 @@
   "title": "photoStudio",
   "version": "0.0.1",
   "author": "Eldar",
-  "main": "src/app/view/index.html",
+  "scripts": {
+    "start": "node index"
+  },
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -16,5 +18,8 @@
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^1.5.4",
     "jquery": "^1.11.3"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
