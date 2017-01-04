@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0364ac99-0e2c-460a-aa2f-5d346ab541fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/header-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/aetuts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/creative-market.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/designmodo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/envato.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/microlancer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/themeforest.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logos/wordpress.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/map-image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/dreams-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/dreams.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/escape-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/escape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/golden-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/golden.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/roundicons-free.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/roundicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/startup-framework-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/startup-framework.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/treehouse-preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/portfolio/treehouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/team/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/team/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/team/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/startbootstrap-agency-gh-pages.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/js/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/portfolio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="startbootstrap-agency-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,14 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/view/portfolio.html">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/app/view/navbar.html" />
         <option value="$PROJECT_DIR$/src/app/view/contact.html" />
         <option value="$PROJECT_DIR$/src/app/view/portfolio.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -150,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -285,7 +247,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,18 +340,19 @@
       <workItem from="1483355261977" duration="53000" />
       <workItem from="1483442375454" duration="160000" />
       <workItem from="1483555570926" duration="2824000" />
-      <workItem from="1483558749851" duration="46000" />
+      <workItem from="1483558749851" duration="314000" />
+      <workItem from="1483559091943" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12198000" />
+    <option name="totallyTimeSpent" value="12489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -429,9 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,13 +422,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jquery/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="6174" column="46" selection-start-line="6174" selection-start-column="46" selection-end-line="6174" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jquery/jquery.js" />
     <entry file="file://$PROJECT_DIR$/mail/contact_me.php" />
     <entry file="file://$PROJECT_DIR$/css/agency.min.css" />
     <entry file="file://$PROJECT_DIR$/js/jqBootstrapValidation.js" />
@@ -479,13 +432,6 @@
     <entry file="file://$PROJECT_DIR$/less/variables.less" />
     <entry file="file://$PROJECT_DIR$/gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -555,36 +501,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="165" column="1" selection-start-line="165" selection-start-column="1" selection-end-line="165" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" />
     <entry file="file://$PROJECT_DIR$/src/assets/css/styles.css" />
     <entry file="file://$PROJECT_DIR$/src/assets/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
           <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
-          <folding>
-            <marker date="1483309220968" expanded="true" signature="7:256" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="280:345" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="380:556" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="591:795" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="822:1425" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="847:913" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="952:1152" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1191:1423" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1437:1524" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1542:1572" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1584:1631" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1660:1749" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1768:1879" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1893:1937" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1948:1974" ph="{...}" />
-            <marker date="1483309220968" expanded="true" signature="1992:2081" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,11 +594,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/view/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-319">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
